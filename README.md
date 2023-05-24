@@ -7,3 +7,4 @@ salvando alterações aula 6
 
 *uso do comando restore 
 *comando git push
+*commit git pull
