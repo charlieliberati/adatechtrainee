@@ -8,4 +8,4 @@ salvando alterações aula 6
 *uso do comando restore 
 *comando git push
 *comando git pull
-*comando git fetch
+*comando git fetch .
