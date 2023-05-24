@@ -4,3 +4,6 @@
 ## salvando modificações 2?
 
 salvando alterações aula 6
+
+*uso do comando restore 
+*comando git push
